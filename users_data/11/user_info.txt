@@ -1,0 +1,3 @@
+Name: George
+Surname: Edwards
+Email: george.edwards@reqres.in
